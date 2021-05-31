@@ -58,7 +58,7 @@ def company_financials(fin_data=data[-2]):
 
     cleancol_df = df.rename(columns=clean_col)
     # transformws to csv
-    cleancol_df.to_csv("./docs/abridge-financials.csv", index=False)
+    cleancol_df.to_csv('./docs/abridge-financials.csv', index=False)
 
 
 def money_mkt_indicators(mm_data=data[-1]):
