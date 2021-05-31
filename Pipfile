@@ -12,6 +12,7 @@ openpyxl = "*"
 tabula-py = "*"
 ipykernel = "*"
 xlrd = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.9"
