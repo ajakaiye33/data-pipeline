@@ -14,6 +14,7 @@ ipykernel = "*"
 xlrd = "*"
 beautifulsoup4 = "*"
 pre-commit = "*"
+bandit = "*"
 
 [requires]
 python_version = "3.9"
