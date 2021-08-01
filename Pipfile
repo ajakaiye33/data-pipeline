@@ -13,6 +13,7 @@ tabula-py = "*"
 ipykernel = "*"
 xlrd = "*"
 beautifulsoup4 = "*"
+pre-commit = "*"
 
 [requires]
 python_version = "3.9"
